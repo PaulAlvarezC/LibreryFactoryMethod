@@ -1,0 +1,17 @@
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/ProgramaFiguras
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/ProgramaFiguras.deps.json
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/ProgramaFiguras.runtimeconfig.json
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/ProgramaFiguras.dll
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/ProgramaFiguras.pdb
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/bin/Debug/net6.0/LibreriaFiguras.dll
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.csproj.AssemblyReference.cache
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.AssemblyInfoInputs.cache
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.AssemblyInfo.cs
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.csproj.CoreCompileInputs.cache
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.csproj.CopyComplete
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.dll
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/refint/ProgramaFiguras.dll
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.pdb
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ProgramaFiguras.genruntimeconfig.cache
+/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/obj/Debug/net6.0/ref/ProgramaFiguras.dll

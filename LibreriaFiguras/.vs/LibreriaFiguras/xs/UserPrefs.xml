@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibreriaFiguras/Triangulo.cs">
+    <Files>
+      <File FileName="LibreriaFiguras/Canva.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/Circulo.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/CreadorCirculo.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/CreadorCuadrado.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/CreadorTriangulo.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/Cuadrado.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/IFigura.cs" Line="1" Column="1" />
+      <File FileName="LibreriaFiguras/Triangulo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibreriaFiguras" expanded="True">
+            <Node name="LibreriaFiguras" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

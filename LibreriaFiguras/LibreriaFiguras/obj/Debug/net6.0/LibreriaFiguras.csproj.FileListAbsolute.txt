@@ -1,0 +1,12 @@
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.deps.json
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.dll
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.pdb
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.csproj.AssemblyReference.cache
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.AssemblyInfoInputs.cache
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.AssemblyInfo.cs
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.csproj.CoreCompileInputs.cache
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.dll
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/refint/LibreriaFiguras.dll
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.pdb
+/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/ref/LibreriaFiguras.dll
