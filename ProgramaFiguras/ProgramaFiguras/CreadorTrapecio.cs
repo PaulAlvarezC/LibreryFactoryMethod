@@ -1,13 +1,17 @@
 ﻿using LibreriaFiguras;
-
 namespace ProgramaFiguras
 {
     public class CreadorTrapecio : Canva
     {
-        public override IFigura crearFigura()
+        public override IFigura crearFigura(string a, string b, string c)
         {
             Console.WriteLine("Creador: Trapecio");
-            return new Trapecio();
+            Trapecio trapecio = new();
+            trapecio.Texto = a;
+            trapecio.Tipo = b;
+            trapecio.Cadena = c;
+            return trapecio;
         }
     }
 }
+

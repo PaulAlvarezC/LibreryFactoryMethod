@@ -10,13 +10,17 @@
   <ItemGroup>
     <None Remove="LibreriaFiguras" />
     <None Remove="Libreria\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="LibreriaFiguras">
-      <HintPath>..\..\LibreriaFiguras\LibreriaFiguras\bin\Debug\net6.0\LibreriaFiguras.dll</HintPath>
-    </Reference>
+    <None Remove="Newtonsoft.Json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Libreria\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="LibreriaFiguras">
+      <HintPath>Libreria\LibreriaFiguras.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

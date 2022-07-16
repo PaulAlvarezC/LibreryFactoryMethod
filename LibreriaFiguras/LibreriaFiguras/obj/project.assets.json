@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/LibreriaFiguras.csproj",
+      "projectUniqueName": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/LibreriaFiguras.csproj",
       "projectName": "LibreriaFiguras",
-      "projectPath": "/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/LibreriaFiguras.csproj",
+      "projectPath": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/LibreriaFiguras.csproj",
       "packagesPath": "/Users/paul.alvarez/.nuget/packages/",
-      "outputPath": "/Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/",
+      "outputPath": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/paul.alvarez/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

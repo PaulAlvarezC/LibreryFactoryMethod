@@ -10,3 +10,15 @@
 /Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/refint/LibreriaFiguras.dll
 /Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.pdb
 /Users/paul.alvarez/Projects/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/ref/LibreriaFiguras.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.deps.json
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/bin/Debug/net6.0/LibreriaFiguras.pdb
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.csproj.AssemblyReference.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.AssemblyInfoInputs.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.AssemblyInfo.cs
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.csproj.CoreCompileInputs.cache
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/refint/LibreriaFiguras.dll
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/LibreriaFiguras.pdb
+/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/LibreriaFiguras/LibreriaFiguras/obj/Debug/net6.0/ref/LibreriaFiguras.dll

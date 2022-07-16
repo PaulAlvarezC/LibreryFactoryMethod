@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eIpLfYzVujT73FQ0JgzZG6W9ePLpx1sucRiPENpTpNtAIeqmJI9ArNSXCJ5Cdzu7y0qjNjE58f/tNcPSWiBvmA==",
+  "dgSpecHash": "U7Rvj80yXuCnxN5SkGD/Fruy22LNFe9t82Jvgdnen2Ekensu9LatX5LCzv3FLi16lVwiX/ZnVHYELtcWnCOUcw==",
   "success": true,
-  "projectFilePath": "/Users/paul.alvarez/Projects/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj",
+  "expectedPackageFiles": [
+    "/Users/paul.alvarez/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

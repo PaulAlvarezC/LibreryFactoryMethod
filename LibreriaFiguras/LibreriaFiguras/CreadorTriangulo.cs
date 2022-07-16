@@ -2,10 +2,14 @@
 {
     public class CreadorTriangulo : Canva
     {
-        public override IFigura crearFigura()
+        public override IFigura crearFigura(string a, string b, string c)
         {
             Console.WriteLine("Creador: Triangulo");
-            return new Triangulo();
+            Triangulo triangulo = new();
+            triangulo.Texto = a;
+            triangulo.Tipo = b;
+            triangulo.Cadena = c;
+            return triangulo;
         }
     }
 }
