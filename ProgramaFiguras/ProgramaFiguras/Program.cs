@@ -6,8 +6,8 @@ namespace ProgramaFiguras
 {
     public class Program
     {
-        //private static string _path = @"C:\data.json";
-        private static string _path = @"/Volumes/iGatoAlvarez/data.json";
+        private static string _path = @"C:\data.json";
+        //private static string _path = @"/Volumes/iGatoAlvarez/data.json";
 
         public static void Main(string[] args)
         {
