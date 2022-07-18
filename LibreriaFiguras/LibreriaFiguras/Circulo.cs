@@ -19,7 +19,7 @@
             var arr1 = arreglo[0];
             var number1 = (from t in arr1 where char.IsDigit(t) select t).ToArray();
             //Console.WriteLine(number1);
-            var radio = Int32.Parse(number1);
+            var radio = Double.Parse(number1);
             var area = 3.14 * Math.Pow(radio, 2);
             return area;
         }
