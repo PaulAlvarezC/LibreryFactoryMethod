@@ -2,13 +2,6 @@
 {
     public abstract class Canva
     {
-        public int AreaCanva
-        {
-            get { return areaCanva; }
-            set { areaCanva = value; }
-        }
-        private int areaCanva;
-
         public abstract IFigura crearFigura(string a, string b, string c);
 
         public void creadorFiguras(string a, string b, string c)

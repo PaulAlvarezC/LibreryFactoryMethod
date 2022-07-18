@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\LibreryFactoryMethod\\ProgramaFiguras\\ProgramaFiguras\\ProgramaFiguras.csproj": {}
   },
   "projects": {
-    "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\LibreryFactoryMethod\\ProgramaFiguras\\ProgramaFiguras\\ProgramaFiguras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\LibreryFactoryMethod\\ProgramaFiguras\\ProgramaFiguras\\ProgramaFiguras.csproj",
         "projectName": "ProgramaFiguras",
-        "projectPath": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/ProgramaFiguras.csproj",
-        "packagesPath": "/Users/paul.alvarez/.nuget/packages/",
-        "outputPath": "/Volumes/iGatoAlvarez/CondorSoft/Apps/LibreryFactoryMethod/ProgramaFiguras/ProgramaFiguras/obj/",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\LibreryFactoryMethod\\ProgramaFiguras\\ProgramaFiguras\\ProgramaFiguras.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\LibreryFactoryMethod\\ProgramaFiguras\\ProgramaFiguras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/paul.alvarez/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
