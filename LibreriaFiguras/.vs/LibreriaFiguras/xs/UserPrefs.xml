@@ -1,20 +1,23 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="LibreriaFiguras/Triangulo.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibreriaFiguras/CreadorCirculo.cs">
     <Files>
-      <File FileName="LibreriaFiguras/Canva.cs" Line="18" Column="38" />
-      <File FileName="LibreriaFiguras/Circulo.cs" Line="33" Column="46" />
-      <File FileName="LibreriaFiguras/CreadorCirculo.cs" Line="11" Column="32" />
+      <File FileName="LibreriaFiguras/Canva.cs" Line="7" Column="35" />
+      <File FileName="LibreriaFiguras/Circulo.cs" Line="35" Column="29" />
+      <File FileName="LibreriaFiguras/CreadorCirculo.cs" Line="12" Column="27" />
       <File FileName="LibreriaFiguras/CreadorCuadrado.cs" Line="5" Column="9" />
       <File FileName="LibreriaFiguras/CreadorTriangulo.cs" Line="10" Column="32" />
       <File FileName="LibreriaFiguras/Cuadrado.cs" Line="39" Column="13" />
       <File FileName="LibreriaFiguras/IFigura.cs" Line="7" Column="43" />
-      <File FileName="LibreriaFiguras/Triangulo.cs" Line="40" Column="118" />
+      <File FileName="LibreriaFiguras/Triangulo.cs" Line="14" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LibreriaFiguras" expanded="True" selected="True">
-            <Node name="LibreriaFiguras" expanded="True" />
+          <Node name="LibreriaFiguras" expanded="True">
+            <Node name="LibreriaFiguras" expanded="True">
+              <Node name="CreadorCirculo.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -24,9 +27,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -1,19 +1,36 @@
 ﻿<Properties StartupConfiguration="{F3192696-5279-476A-B4B1-90247334BBA2}|Default">
-  <MonoDevelop.Ide.ItemProperties.ProgramaFiguras PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgramaFiguras/Program.cs">
+    <Files>
+      <File FileName="ProgramaFiguras/Program.cs" Line="71" Column="76" />
+      <File FileName="ProgramaFiguras/Trapecio.cs" Line="10" Column="38" />
+      <File FileName="ProgramaFiguras/CreadorTrapecio.cs" Line="6" Column="72" />
+      <File FileName="ProgramaFiguras/data.json" Line="6" Column="36" />
+      <File FileName="ProgramaFiguras/Modelo.cs" Line="5" Column="29" />
+      <File FileName="ProgramaFiguras/Figura.cs" Line="6" Column="27" />
+      <File FileName="../../../../data.json" Line="32" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="ProgramaFiguras" expanded="True">
+            <Node name="ProgramaFiguras" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProgramaFiguras PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

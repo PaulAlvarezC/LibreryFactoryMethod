@@ -6,8 +6,8 @@ namespace ProgramaFiguras
 {
     public class Program
     {
-        private static string _path = @"C:\data.json";
-        //private static string _path = @"/Volumes/iGatoAlvarez/data.json";
+        //private static string _path = @"C:\data.json";
+        private static string _path = @"/Volumes/iGatoAlvarez/data.json";
 
         public static void Main(string[] args)
         {
@@ -41,6 +41,8 @@ namespace ProgramaFiguras
                     } else if (fig[i].Figura.Nombre == "Triangulo"){
                         listaFiguras.Add(creatorC.crearFigura(fig[i].Figura.Nombre, fig[i].Figura.Tipo, fig[i].Figura.Cadena));
                     } else if (fig[i].Figura.Nombre == "Trapecio"){
+                        listaFiguras.Add(creatorD.crearFigura(fig[i].Figura.Nombre, fig[i].Figura.Tipo, fig[i].Figura.Cadena));
+                    } else if (fig[i].Figura.Nombre == "Elipse"){
                         listaFiguras.Add(creatorD.crearFigura(fig[i].Figura.Nombre, fig[i].Figura.Tipo, fig[i].Figura.Cadena));
                     }
                 }

@@ -26,6 +26,13 @@
       "tipo": "trapecio",
       "cadena": "a=3;b=5;c=7;d=6;h=4;"
     }
+  },
+  {
+    "Figura": {
+      "nombre": "Trapecio",
+      "tipo": "trapecio",
+      "cadena": "a=3;b=5;c=7;d=6;h=4;"
+    }
   }
 
 ]
